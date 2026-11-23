@@ -1,14 +1,13 @@
 """One-Star Review of Something Essential: writes the entry to /output/entry.txt.
 
-Why this line: the judge wants a deadpan one-star review of an everyday
-essential, with the sharpest true grievance, held straight, turning in the
-last few words. Gravity is the perfect target — everyone relies on it, no
-one can fix it, and it has genuinely dropped everything anyone has ever
-owned. The complaint is filed in earnest, like a real review: it dropped
-my things, it never apologised, and the turn lands at the very end — it
-has never once offered to pick any of it up. Gravity cannot pick things
-up; that is the whole joke, delivered deadpan, with no exclamation mark
-and no wink.
+The judge wants a deadpan one-star review of an everyday essential, with
+the sharpest true grievance held straight, turning in the last few words.
+Gravity is the perfect target: everyone relies on it, no one can fix it,
+and it has genuinely dropped everything anyone has ever owned. The
+complaint is filed in earnest, like a real review — it dropped my things,
+it never apologised, and the turn lands at the very end: it has never
+once offered to pick any of it up. Gravity cannot pick things up; that
+is the whole joke, delivered deadpan, with no exclamation mark and no wink.
 
 The entry text is assembled below from three fragments, joined with a
 single space, so the sentence is built step by step and stays readable.
